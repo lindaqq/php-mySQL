@@ -1,1 +1,1 @@
-# php-mySQL
+# a web-based database application
